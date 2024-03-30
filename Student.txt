@@ -1,0 +1,5 @@
+1001,Shravan,Shankar,27,Male,A,99
+1002,Omo,Ruyi,20,Male,a,78
+1003,Mad,Shra1,30,Female,s,88
+1005,Joe,Goldberg,45,Male,JAVA,77
+1006,Peter,Parker,50,Male,Data Structures,100
